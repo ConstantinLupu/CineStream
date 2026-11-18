@@ -143,11 +143,11 @@ export default function FinalPage() {
               <HeartHandshake className="w-4 h-4" /> Mulțumiri speciale
             </div>
             <h2 className="text-lg sm:text-xl font-bold text-[#1F3A34]">
-              Trainer Cristian Barbu • IT School / AI School
+              Trainer Cristian Barbu • IT School 
             </h2>
             <p className="text-sm text-[#4A524E] leading-relaxed">
               Mulțumesc trainerului <strong>Cristian Barbu</strong> și echipei{" "}
-              <strong>IT School / AI School</strong> pentru răbdare, claritatea
+              <strong>IT School </strong> pentru răbdare, claritatea
               explicațiilor și modul practic în care ne-au ghidat pas cu pas —
               de la primele linii de HTML și CSS până la arhitectura modernă în
               React, Next.js și lucrul eficient cu AI-ul în dezvoltarea web.
